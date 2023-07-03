@@ -7,7 +7,7 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
   }
   body {
-    display: flex;
+    
     justify-content: center;
     align-items: center;
     color: #010101;
